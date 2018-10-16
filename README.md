@@ -1,2 +1,4 @@
 # simple-game
-Simple Game to start coding
+Simple Game with Javascript coding
+
+Development Software used: Android Studio
